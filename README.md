@@ -21,12 +21,12 @@ This repository documents my structured algorithm learning and projects over 6 w
 
 | Week | Day | Problem | Status |
 |------|-----|---------|--------|
-| 1 | 1 | Two Sum | ![Day 1](https://img.shields.io/badge/Day%201-%E2%9C%93-red) |
-| 1 | 2 | Three Sum | ![Day 2](https://img.shields.io/badge/Day%202-%E2%9C%93-red) |
-| 1 | 3 | Move Zero / Remove Duplicates | ![Day 3](https://img.shields.io/badge/Day%203-%E2%9C%93-red) |
-| 1 | 4 | Sliding Window Max | ![Day 4](https://img.shields.io/badge/Day%204-%E2%9C%93-red) |
-| 1 | 5 | Longest Palindrome | ![Day 5](https://img.shields.io/badge/Day%205-%E2%9C%93-red) |
-| 1 | 6-7 | Weekly Summary | ![Day 6-7](https://img.shields.io/badge/Summary-%E2%9C%93-red) |
+| 1 | 1 | Two Sum | ![Day 1](https://img.shields.io/badge/Day%201-Complated-green) |
+| 1 | 2 | Three Sum | ![Day 2](https://img.shields.io/badge/Day%201-Complated-green) |
+| 1 | 3 | Move Zero / Remove Duplicates | ![Day 3](https://img.shields.io/badge/Day%201-Complated-green) |
+| 1 | 4 | Sliding Window Max | ![Day 4](https://img.shields.io/badge/Day%201-Complated-green) |
+| 1 | 5 | Longest Palindrome | ![Day 5](https://img.shields.io/badge/Day%201-Complated-green) |
+| 1 | 6-7 | Weekly Summary | ![Day 6-7](https://img.shields.io/badge/Day%201-Complated-green) |
 
 *Repeat for Weeks 2–6*
 
