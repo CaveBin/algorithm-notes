@@ -39,14 +39,6 @@ This repository documents my structured algorithm learning and projects over 6 w
 - Week 6: Build a small project to integrate all learned algorithms.
 
 ---
-
-###
-PS:
-https://img.shields.io/badge/Day%201-Complated-green
-https://img.shields.io/badge/Day%202-Uncomplated-green
-
-###
-https://img.shields.io/badge/Day%201-Complated-green
-https://img.shields.io/badge/Day%202-UnComplated-red
-
+### Flag badges
+https://shields.io/badges
 
