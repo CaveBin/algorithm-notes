@@ -21,7 +21,7 @@ This repository documents my structured algorithm learning and projects over 6 w
 
 | Week | Day | Problem | Status |
 |------|-----|---------|--------|
-| 1 | 1 | Two Sum | ![Day 1](https://img.shields.io/badge/Day%201-uncomplated-red) |
+| 1 | 1 | Two Sum | ![Day 1](https://img.shields.io/badge/Day%201-complated-green) |
 | 1 | 2 | Three Sum | ![Day 2](https://img.shields.io/badge/Day%202-uncomplated-red) |
 | 1 | 3 | Move Zero / Remove Duplicates | ![Day 3](https://img.shields.io/badge/Day%203-uncomplated-red) |
 | 1 | 4 | Sliding Window Max | ![Day 4](https://img.shields.io/badge/Day%204-uncomplated-red) |
