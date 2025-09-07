@@ -26,7 +26,7 @@ This repository documents my structured algorithm learning and projects over 6 w
 | 1 | 3 | Move Zero / Remove Duplicates | ![Day 3](https://img.shields.io/badge/Day%203-complated-green) |
 | 1 | 4 | Sliding Window Max | ![Day 4](https://img.shields.io/badge/Day%204-complated-green) |
 | 1 | 5 | Longest Palindrome | ![Day 5](https://img.shields.io/badge/Day%205-complated-green) |
-| 1 | 6-7 | Weekly Summary | ![Day 6-7](https://img.shields.io/badge/Day%206-uncomplated-red) |
+| 1 | 6-7 | Weekly Summary | ![Day 6-7](https://img.shields.io/badge/Day%206-complated-green) |
 
 *Repeat for Weeks 2–6*
 
