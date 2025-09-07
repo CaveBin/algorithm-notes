@@ -8,7 +8,7 @@ This repository documents my structured algorithm learning and projects over 6 w
 
 | Week | Topic | Progress |
 |------|-------|----------|
-| 1 | Arrays & Strings | ![Week 1](https://img.shields.io/badge/Progress-100%25-gred) |
+| 1 | Arrays & Strings | ![Week 1](https://img.shields.io/badge/Progress-100%25-grey) |
 | 2 | Stack, Queue & Linked List | ![Week 2](https://img.shields.io/badge/Progress-0%25-red) |
 | 3 | Recursion & Binary Trees | ![Week 3](https://img.shields.io/badge/Progress-0%25-red) |
 | 4 | Dynamic Programming | ![Week 4](https://img.shields.io/badge/Progress-0%25-red) |
