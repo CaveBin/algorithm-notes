@@ -28,7 +28,16 @@ This repository documents my structured algorithm learning and projects over 6 w
 | 1 | 5 | Longest Palindrome | ![Day 5](https://img.shields.io/badge/Day%205-complated-green) |
 | 1 | 6-7 | Weekly Summary | ![Day 6-7](https://img.shields.io/badge/Day%206-complated-green) |
 
-*Repeat for Weeks 2–6*
+| Week | Day | Problem | Status |
+|------|-----|---------|--------|
+| 2 | 1 | Valid Parentheses | ![Day 1](https://img.shields.io/badge/Day%201-uncomplated-red) |
+| 2 | 2 | Min Stack | ![Day 2](https://img.shields.io/badge/Day%202-uncomplated-red) |
+| 2 | 3 | Sliding Window and Subarray / Range Sum Problems | ![Day 3](https://img.shields.io/badge/Day%203-uncomplated-red) |
+| 2 | 4 | Binary Search | ![Day 4](https://img.shields.io/badge/Day%204-uncomplated-red) |
+| 2 | 5 | Search Insert Position | ![Day 5](https://img.shields.io/badge/Day%205-uncomplated-red) |
+| 2 | 6-7 | Weekly Summary | ![Day 6-7](https://img.shields.io/badge/Day%206-uncomplated-red) |
+
+*Repeat for Weeks 3–6*
 
 ---
 
