@@ -9,7 +9,7 @@ This repository documents my structured algorithm learning and projects over 6 w
 | Week | Topic | Progress |
 |------|-------|----------|
 | 1 | Arrays & Strings | ![Week 1](https://img.shields.io/badge/Progress-100%25-grey) |
-| 2 | Stack, Queue & Linked List | ![Week 2](https://img.shields.io/badge/Progress-15%25-green) |
+| 2 | Stack, Queue & Linked List | ![Week 2](https://img.shields.io/badge/Progress-30%25-green) |
 | 3 | Recursion & Binary Trees | ![Week 3](https://img.shields.io/badge/Progress-0%25-red) |
 | 4 | Dynamic Programming | ![Week 4](https://img.shields.io/badge/Progress-0%25-red) |
 | 5 | Graphs & Union-Find | ![Week 5](https://img.shields.io/badge/Progress-0%25-red) |
@@ -31,7 +31,7 @@ This repository documents my structured algorithm learning and projects over 6 w
 | Week | Day | Problem | Status |
 |------|-----|---------|--------|
 | 2 | 1 | Valid Parentheses | ![Day 1](https://img.shields.io/badge/Day%201-complated-green) |
-| 2 | 2 | Min Stack | ![Day 2](https://img.shields.io/badge/Day%202-uncomplated-red) |
+| 2 | 2 | Min Stack | ![Day 2](https://img.shields.io/badge/Day%202-complated-green) |
 | 2 | 3 | Sliding Window and Subarray / Range Sum Problems | ![Day 3](https://img.shields.io/badge/Day%203-uncomplated-red) |
 | 2 | 4 | Binary Search | ![Day 4](https://img.shields.io/badge/Day%204-uncomplated-red) |
 | 2 | 5 | Search Insert Position | ![Day 5](https://img.shields.io/badge/Day%205-uncomplated-red) |
